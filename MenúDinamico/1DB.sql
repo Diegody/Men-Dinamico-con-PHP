@@ -1,5 +1,5 @@
 CREATE DATABASE hospitaldb;
-
+USE hospitaldb;
 
 DROP TABLE IF EXISTS actividades;
 CREATE TABLE IF NOT EXISTS actividades (
